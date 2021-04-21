@@ -82,13 +82,13 @@ namespace CookiesTest
                   expires: DateTime.Now.AddDays(3),
                   signingCredentials: credentials);
                 var tokenString = new JwtSecurityTokenHandler().WriteToken(token);
-                setTokenCookie(tokenString, "AccessToken", token.ValidTo, response);
+                setTokenCookie(tokenString, "AccessToken", response, token.ValidTo);
 
 
             }
         }
 
-        private void setTokenCookie(string token, string key, DateTime? validTo = null, HttpResponse response)
+        private void setTokenCookie(string token, string key, HttpResponse response, DateTime? validTo = null)
         {
             var cookieOptions = new CookieOptions
             {

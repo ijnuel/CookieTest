@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jesudunsin Ijitona\\Desktop\\cyhermes\\Parizzo Project\\CookiesTest\\CookiesTest\\CookiesTest.csproj": {}
+    "C:\\Users\\Jesudunsin Ijitona\\Desktop\\cyhermes\\CookieTest\\CookiesTest\\CookiesTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jesudunsin Ijitona\\Desktop\\cyhermes\\Parizzo Project\\CookiesTest\\CookiesTest\\CookiesTest.csproj": {
+    "C:\\Users\\Jesudunsin Ijitona\\Desktop\\cyhermes\\CookieTest\\CookiesTest\\CookiesTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jesudunsin Ijitona\\Desktop\\cyhermes\\Parizzo Project\\CookiesTest\\CookiesTest\\CookiesTest.csproj",
+        "projectUniqueName": "C:\\Users\\Jesudunsin Ijitona\\Desktop\\cyhermes\\CookieTest\\CookiesTest\\CookiesTest.csproj",
         "projectName": "CookiesTest",
-        "projectPath": "C:\\Users\\Jesudunsin Ijitona\\Desktop\\cyhermes\\Parizzo Project\\CookiesTest\\CookiesTest\\CookiesTest.csproj",
+        "projectPath": "C:\\Users\\Jesudunsin Ijitona\\Desktop\\cyhermes\\CookieTest\\CookiesTest\\CookiesTest.csproj",
         "packagesPath": "C:\\Users\\Jesudunsin Ijitona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jesudunsin Ijitona\\Desktop\\cyhermes\\Parizzo Project\\CookiesTest\\CookiesTest\\obj\\",
+        "outputPath": "C:\\Users\\Jesudunsin Ijitona\\Desktop\\cyhermes\\CookieTest\\CookiesTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
